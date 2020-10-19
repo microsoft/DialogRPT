@@ -1,4 +1,4 @@
-# Dialog Ranking Pretrained Transformers
+# DialogRPT: Dialog Ranking Pretrained Transformers
 
 DialogRPT is trained to predict human feedback (upvotes/replies) of dialogue responses.
 It is a set of dialog response ranking models proposed by [Microsoft Research NLP Group](https://www.microsoft.com/en-us/research/group/natural-language-processing/) trained on 100 + millions of human feedback data, accepted to appear at [EMNLP'20](https://2020.emnlp.org/). 
