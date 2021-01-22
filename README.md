@@ -1,6 +1,6 @@
-👉👉👉 **Official PyTorch implementation**: https://github.com/golsun/DialogRPT
+👉👉👉 **Official code & pretrained models** https://github.com/golsun/DialogRPT
 
-**DialogRPT** (Dialog Ranking Pretrained Transformers) is trained to predict human feedback (upvotes/replies) of dialogue responses.
+[DialogRPT](https://arxiv.org/abs/2009.06978) (Dialog Ranking Pretrained Transformers) is trained to predict human feedback (upvotes/replies) of dialogue responses.
 It is a set of dialog response ranking models proposed by [Microsoft Research NLP Group](https://www.microsoft.com/en-us/research/group/natural-language-processing/) trained on 100 + millions of human feedback data, accepted to appear at [EMNLP'20](https://2020.emnlp.org/). 
 It can be used to improve existing dialog generation model (e.g., [DialoGPT](https://github.com/microsoft/DialoGPT)) by re-ranking the generated response candidates.
 
